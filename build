@@ -1,0 +1,4 @@
+#!/bin/bash
+# a very simple 1-line build
+# example: ./build blink will compile blink.c and output program: blink.
+gcc -Wall -pthread -std=c11 -o $1 $1.c -lwiringPi -lwiringPiDev -lrt
