@@ -3,18 +3,17 @@ Sample Code for Raspberry Pi. A mixture of C, C++ and Python.
 
 This repo contains files for Burlington Meetup to demo the Raspberry Pi with Robotic applications.
 
-##TODO:
+## TODO:
 
-
-###Brendon:
+### Brendon:
 Python with the PiCamera and OpenCV
 
-###Jeff:
+### Jeff:
 1. Switch
-2. OLED Display
-3. Potentionmeter input (A/D)
-4. Distance Sensor
-5. Acclerometer
-6. Motor (with Accelerometer)
-..* display: position /encoder feedback (with stick)
-..* RPM with stick off.
+1. OLED Display
+1. Potentionmeter input (A/D)
+1. Distance Sensor
+1. Acclerometer
+1. Motor (with Accelerometer)
+  * display: position /encoder feedback (with stick)
+  * RPM with stick off.
