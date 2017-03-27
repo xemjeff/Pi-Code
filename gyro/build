@@ -1,0 +1,3 @@
+#!/bin/bash
+# buil for the gyro test program on pi 
+gcc -o gyroExample -l rt gyroExample.c -lm -lncurses
