@@ -3,6 +3,10 @@
 * Developed by Mark Williams
 * A guide to this code can be found here; http://ozzmaker.com/2013/04/22/845/
 * Created 28th April 2013
+*
+* Modifications by Jeff Sprenger - June 2017.
+* Added Keystroke (ESC) handling and ncurses display for
+* running on a terminal.
 */
 
 
