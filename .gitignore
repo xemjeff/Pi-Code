@@ -37,4 +37,6 @@
 
 # Video and Pictures
 *.png
+*.jpg
+*.jpeg
 *.h264
