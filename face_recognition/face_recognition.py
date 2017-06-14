@@ -19,6 +19,7 @@ buff = numpy.fromstring(stream.getvalue(), dtype=numpy.uint8)
 image = cv2.imdecode(buff, 1)
 
 #Load a cascade file for detecting faces
+# TODO: Find a better cascade file. The current one struggles with beards.
 face_cascade = cv2.CascadeClassifier('faces.xml')
 
 #Convert to grayscale
