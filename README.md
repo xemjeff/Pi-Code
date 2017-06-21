@@ -6,7 +6,11 @@ This repo contains files for Burlington Meetup to demo the Raspberry Pi with Rob
 ## TODO:
 
 ### Brendon:
-Python with the PiCamera and OpenCV
+1. Python with the PiCamera and OpenCV
+ * [OpenCV Installation Resource](http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/) 
+ * [OpenCV Face Detection Resource](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/) 
+ * [PiCamera Python Module](http://picamera.readthedocs.io/en/release-1.13/)
+ * [OpenCV Python Documentation](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_table_of_contents_ml/py_table_of_contents_ml.html)
 
 ### Jeff:
 1. Switch

@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Python byte-code and swap files
+*.pyc
+*.swp
+
+# Video and Pictures
+*.png
+*.jpg
+*.jpeg
+*.h264
