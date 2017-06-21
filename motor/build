@@ -1,0 +1,3 @@
+#!/bin/bash
+# a very simple 1-line build
+gcc -Wall -pthread -o $1 $1.c -lpigpio -lrt

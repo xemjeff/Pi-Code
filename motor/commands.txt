@@ -1,0 +1,4 @@
+# gpio command for pwm control
+# gpio 1 is physical pin 12 and BCM pin 18 (check gpio readall)
+gpio mode 1 pwm
+gpio pwm 1 512 
